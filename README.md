@@ -23,16 +23,6 @@ Basics of Hardware Components
 Problem Solving & Innovation
 
 
-
----
-
-🚀 Projects
-
-🌾 KhetSaathi
-
-An AI-powered solution for farmers with features like voice query, disease detection, and fake product detection.
-
-
 ---
 
 🏆 Achievements
